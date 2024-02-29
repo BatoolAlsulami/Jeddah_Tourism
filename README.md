@@ -11,6 +11,6 @@ To run this project, you need the following software installed on your machine:
 # Device
 Huawei MateBook D 14 with 16.0 GB RAM and Windows 11 operating system Core(TM) i7-1165G7
 # Authors
-@BatoolAlsulami- Rana Alsulami - hanan ibrahim - Arwa Hussain - shahad Almalki- hala jalal
+[BatoolAlsulami](https://github.com/BatoolAlsulami)- Rana Alsulami - hanan ibrahim - Arwa Hussain - shahad Almalki- hala jalal
 # Documentation
 [Documentation](https://drive.google.com/file/d/1dkHNJPTFeNIcceGonkkoCw6lOgdhMT8O/view?usp=drivesdk)
